@@ -6,8 +6,8 @@
 
 ## Install
 ```
-get -u github.com/doanvanvinhtho/simple-rest-api-by-gorilla-mux
-get -u github.com/gorilla/mux
+go get -u github.com/doanvanvinhtho/simple-rest-api-by-gorilla-mux
+go get -u github.com/gorilla/mux
 ```
 
 ## Test
